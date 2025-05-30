@@ -20,8 +20,9 @@ pip install -r requirements.txt
 python main.py`
 ``
 
-## 🎮 Управление через стрелки
-![image](https://github.com/user-attachments/assets/462851f3-a9e0-4784-9d19-e08c7aa10526)
+## 🎮 Управление через стрелки 
+
+![Снимок](https://github.com/user-attachments/assets/36b35d19-840f-435d-8f45-104de622eee1)
 
 
 🔹 **Теги:**  
